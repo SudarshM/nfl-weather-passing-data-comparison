@@ -26,7 +26,5 @@ The script pulls and merges data from two places: 1. **NFL Stats:** Downloaded a
 
 I uploaded our final presentation poster directly to this repository as well, so you can see all our actual scatterplots, boxplots, and regression lines in one clean layout!
 
-![Uploading NFL_Weather_Study_Poster.png…]()
-
-
+<img width="3600" height="2880" alt="NFL_Weather_Study_Poster" src="https://github.com/user-attachments/assets/9771c642-923e-4a02-a82e-8b2f40785485" />
 
